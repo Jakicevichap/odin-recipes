@@ -1,0 +1,30 @@
+
+/*Main page theme*/
+
+.body{
+    background-color: #fffbf5;
+    font-family: Helvetica, sans-serif;
+}
+
+.headers,
+.links{
+    color: #ffbf47;
+}
+
+.title{
+    text-align: center;
+}
+
+.invis{
+    color: #fffbf5;
+    font-size: 30px;
+}
+
+.img{
+   image-rendering: auto;
+
+}
+
+/*{
+    border: 2px solid red;
+}*/
